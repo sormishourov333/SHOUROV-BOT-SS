@@ -68,7 +68,7 @@ DEVELOPER : 𝐊𝐈𝐍𝐆 𝐒𝐇𝐎𝐔𝐑𝐎𝐕
 
 🟣Facebook Account Link: 
 
-https://www.facebook.com/profile.php?id=100070297030133&mibextid=ZbWKwL
+https://www.facebook.com/broken.shourov.ss
 
 🔵WHATSAPP NUMBER: 01709281334`, attachment: fs.createReadStream(gifPath)}, threadID));
 })
